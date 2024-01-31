@@ -1,4 +1,4 @@
-import sum from '../app';
+import getFields, { character } from '../app';
 
 /*
 test('should sum', () => {
